@@ -1,0 +1,5 @@
+const BASE_DUMMY_DATA_ENDPOINT = 'https://dummyjson.com'
+
+export const CARTS_DUMMY_DATA_ENDPOINT = `${BASE_DUMMY_DATA_ENDPOINT}/carts`
+
+export const USERS_DUMMY_DATA_ENDPOINT = `${BASE_DUMMY_DATA_ENDPOINT}/users`
